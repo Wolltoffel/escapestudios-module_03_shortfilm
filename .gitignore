@@ -110,6 +110,7 @@ Module_03/Build/Windows/FileOpenOrder/EditorOpenOrder.log
 
 #Substance Painter Backups
 **/.autosave/
+**/autosave_*.spp
 
 #Substance Painter HP Temp Files
 *.assbin
